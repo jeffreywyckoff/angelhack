@@ -1,3 +1,6 @@
+# A project that I created using Differential's Meteor boilerplate and ryw:blog package. I made some modifications during an Angelhack event in July 2015. 
+
+
 # meteor-boilerplate
 
 A starting point for MeteorJS applications. Includes iron-router, Bootstrap 3, Font Awesome, LESS and more.
